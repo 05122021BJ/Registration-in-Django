@@ -1,17 +1,15 @@
 body {
-    text-align: center;
-    background-color: #0000FF;
-    color: #ffffff;
+    background-image: linear-gradient( 60deg, #a3eced 10%, #130CB7 100%);
 }
 
-figure.images {
+.images {
     border:5px solid white;
     box-shadow: 1px 1px 4px black;
 }
 
-figure.images img {
+.images img {
     width: 100px;
-    height: 50px;
+    height: 100px;
 }
 
 a {
